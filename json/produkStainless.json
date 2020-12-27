@@ -1,0 +1,54 @@
+{
+    "Paket" : {
+        "nama": [
+            "Paket Stainless Straw Silver Set warna Silver",
+            "Paket Stainless Straw Silver Fullset warna Silver",
+            "Paket Stainless Straw Black Set warna Black",
+            "Paket Stainless Straw Black Fullset warna Black",
+            "Paket Stainless Straw Gold Set warna Gold",
+            "Paket Stainless Straw Gold Fullset warna Gold",
+            "Paket Bambo Straw Set warna Natural"
+        ],
+        "harga": [
+            "1 Set + 1 Pohon = Rp50,000",
+            "1 Set + 1 Pohon = Rp80,000",
+            "1 Set + 1 Pohon = Rp70,000",
+            "1 Set + 1 Pohon = Rp90,000",
+            "1 Set + 1 Pohon = Rp70,000",
+            "1 Set + 1 Pohon = Rp90,000",
+            "1 Set + 1 Pohon = Rp35,000"
+        ]
+    },
+    "Satuan" : {
+        "nama": [
+            "Straight Stainless Straw Silver",
+            "Straight Stainless Straw Black",
+            "Straight Stainless Straw Gold",
+            "Bent Stainless Straw Silver",
+            "Bent Stainless Straw Black",
+            "Bent Stainless Straw Gold",
+            "Bubble Stainless Straw Silver",
+            "Bubble Stainless Straw Black",
+            "Bubble Stainless Straw Gold",
+            "Straight Bamboo Straw Natural",
+            "Bubble Bamboo Straw Natural",
+            "Stainless Brush Stainless Silver",
+            "Pouch Kain Pouch LH V1.3 Black"
+        ],
+        "harga": [
+            "Rp17,000",
+            "Rp22,000",
+            "Rp22,000",
+            "Rp15,000",
+            "Rp20,000",
+            "Rp20,000",
+            "Rp28,000",
+            "Rp30,000",
+            "Rp30,000",
+            "Rp7,000",
+            "Rp10,000",
+            "Rp10,000",
+            "Rp17,000"
+        ]
+    }
+}

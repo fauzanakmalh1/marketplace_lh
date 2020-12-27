@@ -1,0 +1,54 @@
+{
+    "Paket" : {
+        "nama": [
+            "Paket Bamboo Straw Silver Set warna Silver",
+            "Paket Bamboo Straw Silver Fullset warna Silver",
+            "Paket Bamboo Straw Black Set warna Black",
+            "Paket Bamboo Straw Black Fullset warna Black",
+            "Paket Bamboo Straw Gold Set warna Gold",
+            "Paket Bamboo Straw Gold Fullset warna Gold",
+            "Paket Bambo Straw Set warna Natural"
+        ],
+        "harga": [
+            "1 Set + 1 Pohon = Rp100,000",
+            "1 Set + 1 Pohon = Rp130,000",
+            "1 Set + 1 Pohon = Rp120,000",
+            "1 Set + 1 Pohon = Rp140,000",
+            "1 Set + 1 Pohon = Rp120,000",
+            "1 Set + 1 Pohon = Rp140,000",
+            "1 Set + 1 Pohon = Rp85,000"
+        ]
+    },
+    "Satuan" : {
+        "nama": [
+            "Straight Bamboo Straw Silver",
+            "Straight Bamboo Straw Black",
+            "Straight Bamboo Straw Gold",
+            "Bent Bamboo Straw Silver",
+            "Bent Bamboo Straw Black",
+            "Bent Bamboo Straw Gold",
+            "Bubble Bamboo Straw Silver",
+            "Bubble Bamboo Straw Black",
+            "Bubble Bamboo Straw Gold",
+            "Straight Bamboo Straw Natural",
+            "Bubble Bamboo Straw Natural",
+            "Bamboo Brush Bamboo Silver",
+            "Pouch Kain Pouch LH V1.3 Black"
+        ],
+        "harga": [
+            "Rp67,000",
+            "Rp72,000",
+            "Rp72,000",
+            "Rp65,000",
+            "Rp70,000",
+            "Rp70,000",
+            "Rp78,000",
+            "Rp80,000",
+            "Rp80,000",
+            "Rp57,000",
+            "Rp60,000",
+            "Rp60,000",
+            "Rp67,000"
+        ]
+    }
+}
